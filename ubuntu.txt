@@ -1,0 +1,5 @@
+archive.ubuntu.com
+*.archive.ubuntu.com
+*.fury.io
+mirror.internode.on.net
+
