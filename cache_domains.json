@@ -1,0 +1,25 @@
+{
+	"cache_domains": [
+	     {
+		"name": "wsus",
+		"description": "CDN for windows updates",
+		"domain files": ["windowsupdates.txt"]
+	     },
+	     {
+		"name": "xboxlive",
+		"description": "CDN for xboxlive",
+		"domain_files": ["xboxlive.txt"]
+	     },
+	     {
+		"name": "ubuntu",
+		"description": "ubuntu software updates",
+		"domain_files": ["ubuntu.txt"]
+	     },
+	     {
+		"name": "debian",
+		"description": "Debian update urls",
+		"domain_files": ["debian.txt"]
+	     }
+	]
+
+}
